@@ -1,4 +1,7 @@
 # agrosage
 this is my first github
-<b>
-author - harsh
+
+**author** - harsh tajput
+
+See the demo page: [index.html](index.html)
+
